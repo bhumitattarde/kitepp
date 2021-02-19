@@ -1,4 +1,4 @@
-# THE KITE CONNECT API C++ CLIENT
+# This repository has been moved to https://github.com/zerodha/cppkiteconnect
 
 - [Overview](https://github.com/bhumitattarde/kitepp#overview)
 - [Dependencies](https://github.com/bhumitattarde/kitepp#dependencies)
