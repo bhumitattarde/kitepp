@@ -1,5 +1,5 @@
 # This repository has been moved to https://github.com/zerodha/cppkiteconnect
-
+<!---
 - [Overview](https://github.com/bhumitattarde/kitepp#overview)
 - [Dependencies](https://github.com/bhumitattarde/kitepp#dependencies)
 - [Getting dependencies](https://github.com/bhumitattarde/kitepp#getting-dependencies)
@@ -176,6 +176,6 @@ These and other more extensive examples as well as their `cmake` build files for
 
 GPLv3
 
-
+-->
 
 
